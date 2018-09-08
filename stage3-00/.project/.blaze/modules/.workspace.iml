@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="Blaze" type="BLAZE_CPP_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 2.7" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../../stage3">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../stage3" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../stage3/bazel-bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../stage3/bazel-genfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../stage3/bazel-out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../stage3/bazel-stage3" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../stage3/bazel-testlogs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Python 2.7 interpreter library" level="application" />
+  </component>
+</module>
