@@ -1,0 +1,1 @@
+<configuration name="greeter_async_client" type="BlazeCommandRunConfigurationType" factoryName="Bazel Command"><blaze-settings handler-id="BlazeCLionRunConfigurationHandlerProvider" blaze-command="run"><blaze-target kind="cc_binary">//helloworld:greeter_async_client</blaze-target><env_state><envs /></env_state></blaze-settings></configuration>

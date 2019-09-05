@@ -1,0 +1,1 @@
+<configuration name="Unnamed" type="BlazeCommandRunConfigurationType" factoryName="Bazel Command"><blaze-settings blaze-command="run" handler-id="BlazeCLionRunConfigurationHandlerProvider"><blaze-target kind="cc_binary">//example:echo_client</blaze-target><env_state><envs><env name="http_proxy" value="" /></envs></env_state></blaze-settings></configuration>
